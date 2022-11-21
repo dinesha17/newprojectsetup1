@@ -1,0 +1,24 @@
+.headerstyle{
+    background-color: bisque;
+    height: 10vh;
+    width: 100%
+}
+
+
+.float-container {
+    display: flex;
+    padding:0px;
+    margin:0px;
+}
+.float-child1 {
+    flex: 1;
+    width: 20%;
+    height: 80vh;
+    background-color: rgb(132, 230, 230);
+}
+
+.float-child2 {
+    width: 80%;
+    height: 80vh;
+    background-color: rgb(147, 147, 228);
+}
